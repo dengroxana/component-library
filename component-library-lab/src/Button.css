@@ -1,0 +1,28 @@
+button {
+  border-radius: 2px;
+  padding: 5px 25px;
+}
+
+.primary {
+  background-color: #0069d9;
+  color: white;
+  border: #0069d9;
+}
+
+.danger {
+  background-color: #dc3544;
+  color: white;
+  border: #dc3544;
+}
+
+.success {
+  background-color: #28a745;
+  color: white;
+  border: #28a745;
+}
+
+.warning {
+  background-color: #fec205;
+  color: black;
+  border: #fec205;
+}
