@@ -1,0 +1,19 @@
+.hoverImage {
+    display: none;
+    width: 150px;
+    height: auto;
+  }
+  .mainImage:hover {
+    display:none;
+    width: 150px;
+    height: auto;
+  }
+  .mainImage:hover ~ .hoverImage {
+    display: block;
+    width:150px;
+    height:auto;
+  }
+.mainImage {
+    width: 150px;
+    height: auto;
+}
